@@ -5,11 +5,11 @@ using System.Text;
 
 namespace atalet
 {
-    public class Point2D
+    public class Nokta2D
     {
-        public Point2D() { }
+        public Nokta2D() { }
 
-        public Point2D(double X, double Y)
+        public Nokta2D(double X, double Y)
         {
             this.X = X;
             this.Y = Y;
