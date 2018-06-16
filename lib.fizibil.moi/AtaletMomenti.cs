@@ -3,13 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace atalet
+namespace lib.fizibil.moi
 {
-    public class AtaletMoment
+    public class AtaletMomenti
     {
-        public AtaletMoment() { }
+        public AtaletMomenti() { }
 
-        public AtaletMoment(double Ixy, double Ix, double Iy, double Iz)
+        public AtaletMomenti(double Ixy, double Ix, double Iy, double Iz)
         {
             this.Ixy = Ixy;
             this.Ix = Ix;
